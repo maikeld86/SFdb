@@ -1,0 +1,32 @@
+{
+  "name": "sfdb",
+  "version": "1.0.0",
+  "description": "sexfantasieën dagboek project with nodejs and git",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maikeld86/sfdb.git"
+  },
+  "keywords": [
+    "sexdagboek",
+    "sexfantasieën",
+    "dagboek"
+  ],
+  "author": "maikel doemges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maikeld86/sfdb/issues"
+  },
+  "homepage": "https://github.com/maikeld86/sfdb#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
+}
